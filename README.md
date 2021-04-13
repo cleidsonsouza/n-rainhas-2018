@@ -3,3 +3,5 @@
 </p>
 
 <h1 align="center">O Problema das N-Rainhas</h1>
+<p align="center">Algoritmo Genético implementado para resolver o problema das n-rainhas.</p>
+![](https://img.shields.io/appveyor/tests/thiagoloureiro/dapper-crud-extension.svg)
