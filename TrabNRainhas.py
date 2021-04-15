@@ -189,4 +189,6 @@ for i in range(8):
 	
 # Atualiza a tela do jogo
 pygame.display.update()	
+while True:
+     pass
 
