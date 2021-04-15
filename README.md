@@ -66,11 +66,14 @@
      </ul> -->
 
 ```bash
-# No terminal, clone este repositório
+# Clone este repositório
 $ git clone https://github.com/cleidsonsouza/n-rainhas-2018
 
 # Acesse a pasta do projeto
 $ cd n-rainhas-2018
+
+# Atualize o pip
+$ pip install --upgrade pip
 
 # Instale as dependências
 $ pip install -r requeriments.txt
