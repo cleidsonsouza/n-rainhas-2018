@@ -76,7 +76,7 @@ $ cd n-rainhas-2018
 $ pip install --upgrade pip
 
 # Instale as dependências
-$ pip install -r requeriments.txt
+$ pip install -r requirements.txt
 
 # Execute o projeto
 $ python3 TrabNRainhas.py
